@@ -68,8 +68,8 @@ pip install -r requirements.txt
 
 Below are visual results from the trained model:
 
-![Accuracy and Loss Graph + Predictions](https://github.com/user-attachments/assets/86f5d338-49c0-4a69-aac7-65a16a79f920)
-![Accuracy and Loss Graph + Predictions](https://github.com/user-attachments/assets/59b8342b-4c9b-4f6e-a515-a6ef7035cab8)
+![Image](https://github.com/user-attachments/assets/a50da477-4e99-4739-a392-ca74a9949536)
+![Image](https://github.com/user-attachments/assets/bfe2f73b-27cb-40c8-b03b-7ff3377dd23e)
 
 ```
 
